@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://eggycar.autos/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://eggycar.autos/eggy-car-preview.jpg</image:loc>
+            <image:title>Eggy Car Unblocked Game</image:title>
+            <image:caption>Play Eggy Car Unblocked - Free Physics-Based Driving Game</image:caption>
+        </image:image>
+    </url>
+</urlset>
